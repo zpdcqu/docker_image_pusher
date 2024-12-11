@@ -1,2 +1,2 @@
- wutang/elasticsearch-shanghai-zone:6.3.2
- wutang/skywalking-oap:6.1.0
+apache/skywalking-oap-server:latest
+apache/skywalking-ui:latest
