@@ -1,1 +1,1 @@
-maildev/maildev
+ghcr.io/open-webui/open-webui:v0.5.10
