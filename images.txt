@@ -3,4 +3,3 @@ langfuse/langfuse:3
 clickhouse/clickhouse-server
 minio/minio
 redis:7
-postgres:${POSTGRES_VERSION:-latest}
